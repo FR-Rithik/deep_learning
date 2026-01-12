@@ -1,0 +1,32 @@
+# Ignore data folder
+data/
+
+# Ignore LeNet-5 notebook
+LeNet-5.ipynb
+
+# Ignore common Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
